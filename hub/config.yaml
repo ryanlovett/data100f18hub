@@ -100,7 +100,7 @@ proxy:
       contactEmail: rylo@berkeley.edu
 
 cull:
-  enabled: false
+  enabled: true
 #   timeout: 3600 # default
 
 auth:
